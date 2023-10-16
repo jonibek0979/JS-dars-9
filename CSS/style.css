@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: serif;
+}
+
+.container {
+    width: 1400px;
+    margin: 0 auto;
+}
+
+.header {
+    padding-top: 90px;
+    background: #0000003c;
+    height: 923px;
+}
+.wrapper {
+    width: 1200px;
+    height: 500px;
+    background: #00000085;
+    border-radius: 20px;
+    margin-left: 120px;
+    padding-top: 20px;
+
+}
+
+.title {
+    font-size: 35px;
+    color: rgba(232, 222, 222, 0.381);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin-top: 10px;
+    
+}
+.text {
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin-top: 10px;
+    vertical-align: auto;
+}
+.titlee {
+    font-size: 35px;
+    color: rgba(0, 0, 0, 0.434);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+.inp {
+    display: block;
+    padding: 8px 40px;
+    border-radius: 23px;
+    border: none;
+    color: rgb(152, 207, 255);
+    font-size: 25px;
+    background: #94a6f5;
+    outline: none;
+    margin: 0 auto;
+    margin-top: 20px;
+
+}
+
+.inp__1 {
+    display: block;
+    padding: 8px 40px;
+    border-radius: 23px;
+    border: none;
+    color: rgba(240, 248, 255, 0.43);
+    font-size: 25px;
+    background: #94a6f5d3;
+    outline: none;
+    margin: 0 auto;
+    margin-top: 10px;
+
+}
+
+
+.btn {
+    display: block;
+    width: 150px;
+    height: 45px;
+    border-radius: 23px;
+    border: none;
+    cursor: pointer;
+    color: rgba(240, 248, 255, 0.392);
+    font-size: 25px;
+    background: blue;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+
+.btnn {
+    display: block;
+    width: 150px;
+    height: 45px;
+    border-radius: 23px;
+    border: none;
+    cursor: pointer;
+    color: rgba(240, 248, 255, 0.392);
+    font-size: 25px;
+    background: #f40303e4;
+    margin: 0 auto;
+    margin-top: 20px;
+}
